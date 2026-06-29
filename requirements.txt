@@ -1,0 +1,10 @@
+yfinance
+pandas
+requests
+streamlit
+plotly
+sqlalchemy
+fredapi
+schedule
+psycopg2-binary
+python-dotenv

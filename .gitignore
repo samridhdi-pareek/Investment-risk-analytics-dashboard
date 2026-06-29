@@ -1,0 +1,5 @@
+config.env
+data/
+__pycache__/
+.env
+.DS_Store
